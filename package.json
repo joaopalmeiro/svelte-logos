@@ -1,5 +1,21 @@
 {
-  "name": "SvelteComponent",
+  "name": "svelte-logos",
+  "version": "0.0.1",
+  "description": "Svelte components for Svelte-based logos.",
+  "homepage": "https://github.com/joaopalmeiro/svelte-logos#readme",
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/svelte-logos/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopalmeiro/svelte-logos.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "João Palmeiro",
+    "email": "jm.palmeiro@campus.fct.unl.pt",
+    "url": "https://joaopalmeiro.github.io/"
+  },
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -14,10 +30,16 @@
     "svelte": "^3.5.0"
   },
   "keywords": [
-    "svelte"
+    "svelte",
+    "logos",
+    "icons"
   ],
   "files": [
     "src",
     "dist"
-  ]
+  ],
+  "volta": {
+    "node": "16.13.1",
+    "npm": "8.1.2"
+  }
 }

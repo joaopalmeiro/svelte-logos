@@ -1,1 +1,2 @@
-export { default as default } from './Component.svelte';
+// https://github.com/sveltejs/rollup-plugin-svelte#pkgsvelte
+export { default as Component } from "./Component.svelte";
