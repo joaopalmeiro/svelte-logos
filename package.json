@@ -1,6 +1,6 @@
 {
   "name": "svelte-logos",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Svelte components for Svelte-based logos.",
   "homepage": "https://github.com/joaopalmeiro/svelte-logos#readme",
   "bugs": {
