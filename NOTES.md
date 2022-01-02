@@ -23,5 +23,10 @@
   - Manual setup ([source](https://www.nuskin.com/static/design-components/?path=/info/design-components-getting-started--welcome-to-storybook)):
     - `npm install --save-dev @storybook/svelte`.
     - `npm install --save-dev @storybook/addon-svelte-csf` ([repo](https://github.com/storybookjs/addon-svelte-csf)).
+    - `npm install --save-dev svelte-loader` (required to deploy to Vercel).
     - Optional: `npm install --save-dev @babel/core svelte-loader` ([peer dependencies](https://github.com/storybookjs/storybook/blob/v6.4.9/app/svelte/package.json#L67)).
+    - Vercel:
+      - `BUILD COMMAND`: `npm run build-storybook`.
+      - `OUTPUT DIRECTORY`: `storybook-static`.
+      - `INSTALL COMMAND`: `npm ci`.
 - [svelte-luna/LUNA](https://github.com/loskware/svelte-luna) (UI kit).
