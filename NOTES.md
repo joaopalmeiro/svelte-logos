@@ -7,3 +7,5 @@
 - [svelvg](https://github.com/metonym/svelvg):
   - `npx svelvg glob=../svg/figma outDir=test_svelvg`.
   - [SVGR example](https://react-svgr.com/docs/what-is-svgr/).
+- [svg-parser](https://www.npmjs.com/package/svg-parser).
+- [svgson](https://www.npmjs.com/package/svgson).

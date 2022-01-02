@@ -13,14 +13,6 @@ module.exports = {
 
     "removeDimensions",
 
-    // https://github.com/svg/svgo/blob/main/plugins/sortAttrs.js
-    {
-      name: "sortAttrs",
-      params: {
-        xmlnsOrder: "alphabetical",
-      },
-    },
-
     // https://github.com/svg/svgo/blob/main/plugins/removeAttrs.js
     {
       name: "removeAttrs",
@@ -38,6 +30,14 @@ module.exports = {
             "aria-hidden": true,
           },
         ],
+      },
+    },
+
+    // https://github.com/svg/svgo/blob/main/plugins/sortAttrs.js
+    {
+      name: "sortAttrs",
+      params: {
+        xmlnsOrder: "alphabetical",
       },
     },
   ],
