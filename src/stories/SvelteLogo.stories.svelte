@@ -12,7 +12,20 @@
 
 <Story name="References">
   <ul>
-    <li>Source</li>
-    <li>Brand guidelines</li>
+    <!-- https://web.dev/external-anchors-use-rel-noopener/ -->
+    <li>
+      <a
+        href="https://github.com/sveltejs/branding"
+        target="_blank"
+        rel="noopener">Source</a
+      >
+    </li>
+    <li>
+      <a
+        href="https://github.com/sveltejs/branding#readme"
+        target="_blank"
+        rel="noopener">Brand guidelines</a
+      >
+    </li>
   </ul>
 </Story>
