@@ -45,3 +45,4 @@ If one of the logos should be removed from the `svelte-logos` project, please [s
 ### Logos
 
 - [Svelte](https://github.com/sveltejs/branding). [`svelte-logo.svg`](https://github.com/sveltejs/branding/blob/master/svelte-logo.svg).
+- [Sapper](https://github.com/sveltejs/sapper/tree/master/site/static). [`sapper-logo.svg`](https://github.com/sveltejs/sapper/blob/master/site/static/sapper-logo.svg).

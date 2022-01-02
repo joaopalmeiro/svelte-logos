@@ -3,6 +3,8 @@
 ## Development
 
 - `npm install`.
+- `npm run build`.
+- `npm run storybook`.
 - `npm pack --dry-run`.
 
 ## Misc
@@ -31,3 +33,4 @@
       - `INSTALL COMMAND`: `npm ci`.
       - `Node.js Version`: `14.x`.
 - [svelte-luna/LUNA](https://github.com/loskware/svelte-luna) (UI kit).
+- [shape-rendering](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/shape-rendering) attribute (`geometricPrecision`).
