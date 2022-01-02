@@ -7,6 +7,7 @@ Svelte components for Svelte-based logos.
 - [component-template](https://github.com/sveltejs/component-template).
 - [svelte-component-library-template](https://github.com/nirmaoz/svelte-component-library-template).
 - [Svelte Components template](https://github.com/patoi/svelte-component-library-template).
+- [svelvg](https://github.com/metonym/svelvg) by [Eric Liu](https://github.com/metonym).
 
 ### Logos
 
