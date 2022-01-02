@@ -1,5 +1,7 @@
 <script>
   import { SvelteLogo, SapperLogo } from "svelte-logos";
+
+  const size = 48;
 </script>
 
 <h1>
@@ -12,12 +14,12 @@
 
 <div class="container">
   <div>
-    <SvelteLogo width={48} height={48} />
-    <SvelteLogo width={48} height={48} class="debug" />
+    <SvelteLogo width={size} height={size} />
+    <SvelteLogo width={size} height={size} class="debug" />
   </div>
   <div>
-    <SapperLogo width={48} height={48} />
-    <SapperLogo width={48} height={48} class="debug" />
+    <SapperLogo width={size} height={size} />
+    <SapperLogo width={size} height={size} class="debug" />
   </div>
 </div>
 
