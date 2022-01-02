@@ -3,9 +3,14 @@
 ## Development
 
 - `npm install`.
-- `npm run build`.
 - `npm run storybook`.
+- `npm run build`.
 - `npm pack --dry-run`.
+
+## Deployment
+
+- `npm version minor` or `npm version patch` or `npm version major`.
+- `git push --follow-tags`.
 
 ## Misc
 
