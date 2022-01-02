@@ -6,3 +6,4 @@ storybook-static/
 # Custom
 test_svelvg/
 svg/svgo/
+formatter.svelte

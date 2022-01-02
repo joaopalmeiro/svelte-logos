@@ -1,5 +1,7 @@
 # svelte-logos
 
+> [Demo](https://svelte.dev/repl/54ef8d8185104ffcb3e254e9cb56fc2e)
+
 [![Storybook](https://cdn.jsdelivr.net/gh/storybookjs/brand@main/badge/badge-storybook.svg)](https://svelte-logos.vercel.app/)
 
 Svelte components for Svelte-based logos.
