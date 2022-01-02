@@ -45,7 +45,8 @@
     "icons"
   ],
   "files": [
-    "src",
+    "src/index.js",
+    "src/*.svelte",
     "dist"
   ],
   "volta": {

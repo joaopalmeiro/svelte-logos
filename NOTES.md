@@ -1,5 +1,12 @@
 # Notes
 
+## Development
+
+- `npm install`.
+- `npm pack --dry-run`.
+
+## Misc
+
 > [Figma](https://www.figma.com/file/jYuyViEcLz4fj2DE6AFLFP/svelte-logos?node-id=0%3A1)
 
 - [rollup-plugin-svelte-svg](https://github.com/codefeathers/rollup-plugin-svelte-svg).
