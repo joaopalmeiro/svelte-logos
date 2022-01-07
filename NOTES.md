@@ -11,6 +11,7 @@
 
 - `npm version minor` or `npm version patch` or `npm version major`.
 - `git push --follow-tags`.
+- Check [GitHub](https://github.com/joaopalmeiro/svelte-logos/actions) and [npm](https://www.npmjs.com/package/svelte-logos).
 
 ## Misc
 
